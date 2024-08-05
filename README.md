@@ -1,4 +1,4 @@
-# CODETECH-Task1
+![image](https://github.com/user-attachments/assets/5b52b20d-9eaf-4a39-a7c4-a79c515b14e4)# CODETECH-Task1
 **Name:** Chinthapally Pradeep
 **Company:** CODETECH IT SOLUTIONS
 **ID:** CT6WDS1361
@@ -6,11 +6,11 @@
 **Duration:** JULY to AUGUST 2024
 **Mentor:** 
 # OverView
-Here's an outline for your "Portfolio" project:
+**Project**: PORTFOLIO WEBSITE REDESIGN\
+![image](https://github.com/user-attachments/assets/498228f9-0c00-41e5-a863-b2292ea19db5)
+![image](https://github.com/user-attachments/assets/56d17ff5-ccf0-4caf-8c05-e899dcac64b3)
 
-**Project** 
-- **Project Title**: Portfolio
-- **Brief Description**: A comprehensive portfolio showcasing my projects, skills, and achievements, designed to highlight my work in a visually appealing and professional manner.
+
 
 **Objective**
 - **Purpose**: To present my skills and experience effectively to potential employers and collaborators.
