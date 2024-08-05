@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5b52b20d-9eaf-4a39-a7c4-a79c515b14e4)# CODETECH-Task1
 **Name:** Chinthapally Pradeep
 **Company:** CODETECH IT SOLUTIONS
 **ID:** CT6WDS1361
@@ -11,7 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/56d17ff5-ccf0-4caf-8c05-e899dcac64b3)
 
-
+![image](https://github.com/user-attachments/assets/35d4801a-57fd-4d96-a172-a2bdddd79796)
 
 **Objective**
 - **Purpose**: To present my skills and experience effectively to potential employers and collaborators.
