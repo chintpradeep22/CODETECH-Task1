@@ -30,4 +30,6 @@
 **Key Insights** 
 - **Learnings**: Improved understanding of design principles and user experience.
 - **Challenges**: Managing feedback effectively and ensuring consistent design across pages.
-- **Outcomes**: Successfully created a cohesive and engaging portfolio that effectively represents my wor
+- **Outcomes**: Successfully created a cohesive and engaging portfolio that effectively represents my work and skills.
+
+**Website Prototype:** https://www.figma.com/proto/LViWVHHnftFpS5Jclweiw9/CODETECH-Task-1?node-id=0-1&t=GoQ2HCp7s4bdXQzZ-1
