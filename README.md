@@ -7,7 +7,8 @@
 **Mentor:** 
 # OverView
 **Project**: PORTFOLIO WEBSITE REDESIGN\
-![image](https://github.com/user-attachments/assets/498228f9-0c00-41e5-a863-b2292ea19db5)
+![image](https://github.com/user-attachments/assets/abc492f7-cc79-4dca-887c-2446dd9fa81d)
+
 ![image](https://github.com/user-attachments/assets/56d17ff5-ccf0-4caf-8c05-e899dcac64b3)
 
 
