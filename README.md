@@ -1,9 +1,9 @@
-**Name:** Chinthapally Pradeep
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT6WDS1361
-**Domain:** UI/UX DESIGN
-**Duration:** JULY to AUGUST 2024
-**Mentor:** 
+**Name:** Chinthapally Pradeep <br>
+**Company:** CODETECH IT SOLUTIONS<br>
+**ID:** CT6WDS1361 <br>
+**Domain:** UI/UX DESIGN <br>
+**Duration:** JULY to AUGUST 2024 <br>
+**Mentor:** <br>
 # OverView
 **Project**: PORTFOLIO WEBSITE REDESIGN\
 ![image](https://github.com/user-attachments/assets/abc492f7-cc79-4dca-887c-2446dd9fa81d)
