@@ -3,7 +3,7 @@
 **ID:** CT6WDS1361 <br>
 **Domain:** UI/UX DESIGN <br>
 **Duration:** JULY to AUGUST 2024 <br>
-**Mentor:** <br>
+**Mentor:** Santhosh kumar<br>
 # OverView
 **Project**: PORTFOLIO WEBSITE REDESIGN\
 ![image](https://github.com/user-attachments/assets/abc492f7-cc79-4dca-887c-2446dd9fa81d)
